@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5a592f8d-cac6-4793-80a8-0bf3f94b2406" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2D0qoyC8uUaHK1M7KNvnqwKNC6E" />
   <component name="ProjectViewState">
@@ -14,6 +20,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\TECHPRO\SELENIUM B44 (TUR)\CucumberPr" />
+      <recent name="C:\Users\HP\Desktop\TECHPRO\SELENIUM B44 (TUR)\CucumberPr\src\test\resources\features" />
+      <recent name="C:\Users\HP\Desktop\TECHPRO\SELENIUM B44 (TUR)\CucumberPr\src\test" />
+      <recent name="C:\Users\HP\Desktop\TECHPRO\SELENIUM B44 (TUR)\CucumberPr\src\test\java" />
+      <recent name="C:\Users\HP\Desktop\TECHPRO\SELENIUM B44 (TUR)\CucumberPr\src" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
